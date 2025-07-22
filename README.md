@@ -1,11 +1,36 @@
-<h1 align="center">Hello, I am MrSingu</h1>
-<h3 align="center">A minecraft developer/configurator and coding language learner.</h3>
+<div align="center">
+  <img height="150" src="https://i.imgur.com/Phr0O7T.jpg" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsingu&label=Profile%20views&color=0e75b6&style=flat" alt="mrsingu" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img alt="Discord" title="@mrsingu" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoSize=auto" />
+  <img alt="MC Portfolio" title="Under Developent, availability soon" src="https://img.shields.io/badge/Minecraft-Portfolio-926c4d?style=for-the-badge&labelColor=81a653&logo=codefactor&logoColor=black&logoSize=auto" />
+  <img alt="Projects" title="Under Developent, availability soon" src="https://img.shields.io/badge/Projects-grey?style=for-the-badge&logo=trustpilot&logoColor=yellow&logoSize=auto" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Singular11ty" />
+</div>
+
+<h1 align="center"> MrSingu</h1>
+
+### ⭐ About Me:
+
+I am a junior developer, I specialize in projects within minecraft such as: **`Plugin development`**, **`Plugin Configuration/Setup`**, **`General Configurations/Development`** among other varieties, I also work on projects which require JavaScript *(JS)* Python *(Py)* NodeJS *(Njs)* among other programming languages and tools.
+
+I'm currently a second year computer science student, I'm interested in and have always liked computer projects so this github will be a history of progress, knowledge and information for me and hopefully for others.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+</br>
